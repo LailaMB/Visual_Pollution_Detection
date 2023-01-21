@@ -1,7 +1,7 @@
 # AICAS_KSU Team: Smartathon Visual Pollution Detection
 
-![](figure/sample1.png)
-![](figure/sample2.png)
+![](figure/sample1.jpg)
+![](figure/sample2.jpg)
 
 
 ## Dataset
