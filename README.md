@@ -5,7 +5,8 @@
 
 ## Dataset
 
-The dataset is provided by the [Smartathon](https://smartathon.hackerearth.com) of images with different visual pollution types: (GRAFFITI, FADED SIGNAGE, POTHOLES, GARBAGE, CONSTRUCTION ROAD, BROKEN_SIGNAGE, BAD STREETLIGHT, BAD BILLBOARD, SAND ON ROAD, CLUTTER_SIDEWALK, UNKEPT_FACADE).
+
+The dataset is provided by the [Smartathon](https://smartathon.hackerearth.com). It consists of 9966 images with different visual pollution types: GRAFFITI, FADED SIGNAGE, POTHOLES, GARBAGE, CONSTRUCTION ROAD, BROKEN_SIGNAGE, BAD STREETLIGHT, BAD BILLBOARD, SAND ON ROAD, CLUTTER_SIDEWALK, UNKEPT_FACADE.
 
 
 ## Train
@@ -19,10 +20,6 @@ The dataset is provided by the [Smartathon](https://smartathon.hackerearth.com) 
 
 
 ## Demo
-- Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces/LailaMB/visual_pollution_detection). Try out the Web Demo [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LailaMB/visual_pollution_detection)
-- Implemented as colab notebook <a href="https://colab.research.google.com/drive/1FFCN5_IxZ1mwb56twUvjuMvGUbX4VNu4?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+- The model is provided as an integrated [Huggingface Space 🤗](https://huggingface.co/spaces/LailaMB/visual_pollution_detection) web deme [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LailaMB/visual_pollution_detection)
+- The model is provided as a colab notebook <a href="https://colab.research.google.com/drive/1FFCN5_IxZ1mwb56twUvjuMvGUbX4VNu4?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-git remote add origin https://github.com/LailaMB/Smartathon_Visual_Pollution_Detection.git
-git remote add origin https://github.com/LailaMB/Smartathon_Visual_Pollution_Detection.git
-
-git remote set-url origin https://github.com/LailaMB/Smartathon_Visual_Pollution_Detection.git
