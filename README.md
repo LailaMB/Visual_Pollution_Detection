@@ -1,4 +1,4 @@
-# Smartathon Visual Pollution Detection
+# AICAS_KSU Team: Smartathon Visual Pollution Detection
 
 ![Visual Pollution Detection](image.png)
 
@@ -23,3 +23,6 @@ The dataset is provided by the [Smartathon](https://smartathon.hackerearth.com).
 - The model is provided as an integrated [Huggingface Space 🤗](https://huggingface.co/spaces/LailaMB/visual_pollution_detection) web deme [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LailaMB/visual_pollution_detection)
 - The model is provided as a colab notebook <a href="https://colab.research.google.com/drive/1FFCN5_IxZ1mwb56twUvjuMvGUbX4VNu4?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
+## AICAS_KSU Team
+
+Dr.Hebah ElGibreen, Prof. Yakoub Bazi, Dr. Mohamad Al Rahhal, Eng. Laila Bashmal
