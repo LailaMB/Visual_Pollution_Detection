@@ -1,0 +1,29 @@
+##### important check that we getting the intial weights for fine-tuning.
+
+####### Configuration 4   ######## E6 Model
+python train_aux.py --workers 0 --device 0 --batch-size 8 
+--data data/pollution_dataset/visionpollution.yaml --img 800 800 
+--cfg cfg/training/yolov7-e6.yaml 
+--weights D:/2024/yolov7/data/pollution_dataset/best800_Epoch_148.pt 
+--name yolov7-pollution --hyp data/hyp.scratch.custom.yaml 
+
+
+
+
+
+
+######### inference code
+python detect.py --weights D:/2024/yolov7/data/pollution_dataset/last.pt 
+--conf 0.25 --img-size 800 --source data/pollution_dataset/train/images/0a4f38c94dd63cd8e5b9209dc9892146.jpg
+
+################################################################
+
+##### inference code for test
+python test.py --weights D:/2024/yolov7/data/pollution_dataset/BestEpcoh_152_Focal.pt 
+--task test --data D:/2024/yolov7/data/pollution_dataset/visionpollution.yaml 
+ --save-txt --img-size 800 --batch-size 1 --save-conf 
+
+
+#################################### how to run the code
+1. Create a folder AI_KSU [name of the team] for exmaple 
+2. downlaod 

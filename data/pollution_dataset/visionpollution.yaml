@@ -1,0 +1,7 @@
+train: D:/2024/yolov7/data/pollution_dataset/train/images
+val: D:/2024/yolov7/data/pollution_dataset/val/images
+test: D:/2024/yolov7/data/pollution_dataset/test/images
+
+# Classes
+nc: 11  # number of classes
+names: ['GRAFFITI','FADED_SIGNAGE','POTHOLES','GARBAGE','CONSTRUCTION_ROAD','BROKEN_SIGNAGE','BAD_STREETLIGHT','BAD_BILLBOARD','SAND_ON_ROAD','CLUTTER_SIDEWALK','UNKEPT_FACADE'] 
